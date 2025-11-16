@@ -24,3 +24,4 @@ This folder contains all the required screenshots for the VyomGarud landing page
 - Ensure all animations have loaded before capturing
 - Capture in a clean browser window (no extensions visible)
 - Make sure the orange accent color (#ff7b00) is clearly visible
+![alt text](highlights.png.png) ![alt text](about.png.png) ![alt text](capabilities.png.png) ![alt text](footer.png.png) ![alt text](hero.png.png)
