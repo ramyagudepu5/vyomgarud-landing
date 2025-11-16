@@ -112,9 +112,6 @@ npm run dev
 ### Contact & Footer
 ![Footer](./screenshots/footer.png)
 
-### Mobile Responsive
-![Mobile](./screenshots/mobile.png)
-
 ## 🚀 Build for Production
 
 ```bash
