@@ -25,7 +25,7 @@ const capabilities = [
 
 export default function Capabilities() {
   return (
-    <section id="capabilities" className="py-32 px-6 bg-zinc-950">
+    <section id="capabilities" className="py-32 px-6 bg-zinc-950 my-16">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-20">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
